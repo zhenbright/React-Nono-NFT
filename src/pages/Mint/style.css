@@ -60,6 +60,7 @@ main.mint-page .section-mint .mint-box {
   background: linear-gradient(180deg, rgba(80, 80, 80, 0.3), rgba(40, 40, 40, 0.3));
   border: 1px solid var(--primary-theme-color);
   border-radius: 20px;
+  margin-top: 5px;
 }
 
 main.mint-page .section-mint .mint-box h3 {
